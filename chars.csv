@@ -1,0 +1,102 @@
+B-a-a-d Billy Gruff	2	2	3	Evil	Animal		
+Baby Dragon	2	3	2	Neutral	Dragon	Flying	Flying
+Baby Root	2	0	3	Good	Treant	Support: +3 Health	Support: +6 Health
+Black Cat	2	1	1	Evil	Animal	Last Breath: Summon a 1/1 Cat.	Last Breath: Summon a 2/2 Cat.
+Blind Mouse	2	2	2	Neutral	Animal	Find 3 Blind Mice to get a level 4 treasure instead of level 2.	
+Cinder-Ella	2	2	2	Neutral	Royal Mage	Quest: Cast 4 spells.	Quest: Cast 4 spells.
+Crafty	2	2	2	Neutral	Dwarf	+2/+2 for each Treasure you have.	+4/+4 for each Treasure you have.
+Fanny	2	2	2	Neutral	Dwarf	Dwarf Support: +2/+2	Dwarf Support: +4/+4
+Golden Chicken	2	2	2	Neutral	Animal	I sell for 2 Gold.	I sell for 4 Gold.
+Happy Little Tree	2	1	1	Good	Treant	I gain +2 Health permanently each round.	I gain +4 Health permanently each round.
+Humpty Dumpty	2	7	7	Good	Egg	When I die, I can't be put back together again.	When I die, I can't be put back together again.
+Kitty Cutpurse	2	1	1	Evil	Animal	Slay: +1 Gold	Slay: +2 Gold
+Labyrinth Minotaur	2	5	1	Evil	Monster	Your other Evil characters have +1 Attack.	Your other Evil characters have +2 Attack.
+Lonely Prince	2	1	1	Good	Royal	When you buy another Royal, I transform into a 5/5 Frog Prince.	When you buy another Royal, I transform into a 10/10 Frog Prince.
+Mad Mim	2	0	3	Evil	Mage	Support: +3 Attack	Support: +6 Attack
+Polywoggle	2	1	1	Neutral	Animal	Slay: I transform into a character that is one level higher than your hero.	Slay: I transform into an Upgraded character that is one level higher than your hero.
+Rainbow Unicorn	2	1	5	Good	Animal	Your other Good characters have +1 Health.	Your other Good characters have +2 Health.
+Sherwood Sureshot	2	2	1	Good	Royal	Ranged	Ranged
+Tiny	2	6	1	Neutral	Dwarf		
+Wizard's Familiar	2	1	1	Neutral	Animal Mage	When you cast a spell, I gain +1/+1 permanently.	When you cast a spell, I gain +2/+2 permanently.
+Brave Princess	3	5	3	Good	Royal	Quest: I Slay 3 enemies.	Quest: I Slay 3 enemies.
+Darkwood Creeper	3	0	3	Evil	Treant	When one of your characters survives damage, give it +1 Attack permanently.	When one of your characters survives damage, give it +2 Attack permanently.
+Dubly	3	2	2	Neutral	Dwarf	Double bonuses to my Attack and Health.	Triple bonuses to my Attack and Health.
+Good Witch of the North	3	2	3	Good	Mage	Good Support: +2/+3	Good Support: +4/+6
+Lucky	3	3	2	Neutral	Dwarf	Last Breath: Reduce the cost of a random character in your next shop by 2.	Last Breath: Reduce the cost of a random character in your next shop by 4.
+Ogre Princess	3	4	2	Good	Royal Monster	Slay: Add a random character to your hand.	Slay: Add a random character of your level to your hand.
+Princess Peep	3	1	1	Good	Royal	Last Breath: Summon three 1/1 Sheep.	Last Breath: Summon three 2/2 Sheep.
+Princess Wight	3	2	4	Evil	Royal	Dwarves in your shop have +1/+1. Quest: Buy 7 Dwarves.  Dwarves in your shop have +2/+2.    Quest: Buy 7 Dwarves.
+Prized Pig	3	3	6	Neutral	Animal	When I survive a brawl, +2 Gold.Last Breath: Give your opponent +1 Gold.	When I survive a brawl, +4 Gold. Last Breath: Give your opponent +2 Gold.
+Queen of Hearts	3	1	3	Evil	Royal	When one of your Evil characters dies, I gain +2/+2 this brawl.	When one of your Evil characters dies, I gain +4/+4 this brawl.
+Romeo	3	5	3	Good	Royal	Last Breath: If Juliet is dead, summon her and give her +7/+7 this brawl.	Last Breath: If Juliet is dead, summon her and give her +14/+14 this brawl.
+Shadow Assassin	3	2	4	Evil	Monster	Ranged  When one of your characters triggers a Slay ability, I gain +1 Attack permanently.  Ranged When one of your characters triggers a Slay ability, I gain +2 Attack permanently.
+Sleeping Princess	3	0	8	Good	Royal	I wake up when you cast a spell on me. (+8 Attack)	I wake up when you cast a spell on me. (+16 Attack)
+Spell Weaver	3	1	3	Evil	Mage	Ranged  When you cast a spell, I gain +1 Attack permanently.	Ranged When you cast a spell, I gain +2 Attack permanently.
+The White Stag	3	3	3	Good	Animal	When I attack, give the characters behind me +3/+3 this brawl.	When I attack, give the characters behind me +6/+6 this brawl.
+Trojan Donkey	3	2	6	Good	Animal	When I survive damage, summon a random character.	When I survive damage, summon a random character of your level.
+Vain-Pire	3	4	4	Evil	Monster	Slay: +1/+1 permanently.	Slay: +2/+2 permanently.
+Water Wraith	3	3	3	Evil	Monster	When a character next to me dies, I get +1/+1 permanently.	When a character next to me dies, I get +2/+2 permanently.
+Wicked Witch of the West	3	3	2	Evil	Mage	Evil Support: +3/+2	Evil Support: +6/+4
+Wretched Mummy	3	2	1	Evil	Monster	Last Breath: Deal damage equal to my Attack to a random enemy.	Last Breath: Deal damage equal to double my Attack to a random enemy.
+Bearded Vulture	4	3	3	Evil	Animal	When one of your Animals dies, I gain +3/+3 this brawl.	When one of your Animals dies, I gain +6/+6 this brawl.
+Copycat	4	2	8	Neutral	Animal Mage	After I attack, trigger the Last Breath abilities of the characters behind me.	After I attack, trigger the Last Breath abilities of the characters behind me twice.
+Court Wizard	4	4	2	Good	Mage	Ranged When one of your Royals is attacked and killed, I make a bonus attack.	Ranged When one of your Royals is attacked and killed, I make a bonus attack.
+Fairy Godmother	4	4	4	Good	Fairy	When one of your Good characters dies, give your Good characters +2 Health this brawl.	When one of your Good characters dies, give your Good characters +4 Health this brawl.
+Feasting Dragon	4	5	8	Neutral	Dragon	Slay: For the rest of the game, characters in your shop have +1/+1.	Slay: For the rest of the game, characters in your shop have +2/+2.
+Friendly Spirit	4	3	4	Good	Monster	Last Breath: Give my Attack and Health to one of your other characters this brawl.	Last Breath: Give double my Attack and Health to one of your other characters this brawl.
+Gingerbread Knight	4	7	7	Good	Royal	+7/+7 if you have 20 or less Health.	+14/+14 if you have 20 or less Health.
+Greedy	4	4	8	Neutral	Dwarf	When I survive damage, +1 Gold.	When I survive damage, +2 Gold.
+Heartwood Elder	4	5	7	Good	Treant	Treant Support: At the start of each brawl, +2/+2 permanently.	Treant Support: At the start of each brawl, +4/+4 permanently.
+Hungry Hungry Hippocampus	4	10	1	Good	Animal	When you buy or summon an Animal, I gain +2 Health permanently.	When you buy or summon an Animal, I gain +4 Health permanently.
+Juliet	4	7	7	Good	Royal		
+King Arthur	4	5	5	Good	Royal	At the start of each brawl, give your Upgraded Royals +2/+2 permanently.	At the start of each brawl, give your Upgraded Royals +4/+4 permanently.
+Lady of the Lake	4	3	3	Good	Mage	Ranged Support: +5 Health	Ranged Support: +10 Health
+Lightning Dragon	4	10	1	Neutral	Dragon	Flying At the start of each brawl, I make a bonus attack.	Flying At the start of each brawl, I make a bonus attack.
+Medusa	4	3	3	Evil	Monster	When I attack a character, first transform it into a 0/6 Statue.	When I attack a character, first transform it into a 0/3 Statue.
+Monster Book	4	7	3	Evil	Monster	Last Breath: Cast a random spell.	Last Breath: Cast two random spells.
+Puff Puff	4	7	7	Good	Puff Puff	Puff Puffs don't ever triple. Last Breath: Give all your Puff Puffs everywhere +1/+1 permanently.	Last Breath: Give all your Puff Puffs everywhere +2/+2 permanently.
+Riverwish Mermaid	4	4	8	Good	Royal	Support: Give characters in front of me "Slay: +1/+1 permanently."	Support: Give characters in front of me "Slay: +2/+2 permanently."
+Soltak Ancient	4	0	20	Good	Treant	Prevent all damage to characters behind me, except for when they are attacking.	Prevent all damage to characters behind me, except for when they are attacking.
+Sporko	4	3	3	Evil	Mage	Ranged Support: +5 Attack	Ranged Support: +10 Attack
+The Chupacabra	4	7	5	Evil	Monster	Slay: Give me and the characters behind me +2 Attack permanently.	Slay: Give me and the the characters behind me +4 Attack permanently.
+The Nutcracker	4	4	10	Good	Treant Royal	Quest: I survive damage 4 times.	Quest: I survive damage 4 times.
+Time Flies	4	2	2	Neutral	Animal	When one of your characters dies, summon me from your hand.	When one of your characters dies, summon me from your hand.
+Angry	5	4	10	Neutral	Dwarf	When I survive damage, give all your Dwarves +2/+2 this brawl.	When I survive damage, give all your Dwarves +4/+4 this brawl.
+Aon	5	6	12	Evil	Mage	When you cast a spell, give your Mages +1 Attack permanently. Slay: Your spells cost 1 less next round.	When you cast a spell, give your Mages +2 Attack permanently. Slay: Your spells cost 2 less next round.
+Baba Yaga	5	3	6	Evil	Monster Mage	Ranged Support: +3 Attack and double Slay abilities.	Ranged Support: +6 Attack and triple Slay abilities.
+Baby Bear	5	2	2	Good	Animal	Last Breath: Summon a 4/4 Papa Bear (that summons a 6/6 Mama Bear).	Last Breath: Summon a 8/8 Papa Bear (that summons an 12/12 Mama Bear).
+Cupid	5	1	10	Evil	Fairy	Flying, Ranged When I attack a character, it attacks a character on its own side.	Flying, Ranged When I attack a character, it attacks a character on its own side.
+Lancelot	5	9	9	Good	Royal	Slay: +2/+2 permanently. Quest: I have at least 25 Attack or Health during a brawl.	Slay: +4/+4 permanently. Quest: I have at least 25 Attack or Health during a brawl.
+Nian, Sea Terror	5	10	10	Evil	Monster	I only need two copies to Upgrade.	
+Oni Tyrant	5	7	7	Evil	Monster	When one of your Monsters attacks, give it +7/+7 this brawl.	When one of your Monsters attacks, give it +14/+14 this brawl.
+Robin Wood	5	7	10	Good	Treant	Ranged At the start of each brawl, give the strongest enemy -7 Attack, and your weakest character +7 Attack.	Ranged At the start of each brawl, give the strongest enemy -14 Attack, and your weakest character +14 Attack.
+Rotten Appletree	5	0	18	Evil	Treant	When I'm attacked, first reduce the attacker's Health to 1.	When I'm attacked, first reduce the attacker's Health to 1.
+Shoulder Faeries	5	1	1	Neutral	Fairy	I have the Attack of your strongest Evil character, and the Health of your healthiest Good character.	I have twice the Attack of your strongest Evil character, and twice the Health of your healthiest Good character.
+Southern Siren	5	10	10	Evil	Monster	Slay: Summon an exact copy of the slain character.	Slay: Summon two exact copies of the slain character.
+Three Big Pigs	5	9	9	Evil	Animal	Last Breath: Summon three 3/3 Pigs.	Last Breath: Summon three 6/6 Pigs.
+Tweedle Dee	5	10	3	Neutral	Dwarf	Last Breath: Summon Tweedle Dum with my Attack and Health swapped.	Last Breath: Summon Tweedle Dum with double my Attack and Health swapped.
+Wombats in Disguise	5	4	4	Neutral	Animal	Last Breath: Summon a random character and give it my Attack and Health.	Last Breath: Summon a random Upgraded character and give it double my Attack and Health.
+Ashwood Elm	6	0	15	Evil	Treant	At the start of each brawl, give your Treants +Attack equal to my Health this brawl.	At the start of each brawl, give your Treants +Attack equal to double my Health this brawl.
+Bearstein	6	7	10	Good	Animal Mage	Your other Animals have +2/+2. When you summon an Animal during a brawl, double its Attack and Health.	Your other Animals have +4/+4. When you summon an Animal during a brawl, triple its Attack and Health.
+Burning Tree	6	4	20	Evil	Treant	Bonuses to my Attack also add to my Health.	Bonuses to my Attack also add double to my Health.
+Doombreath	6	10	6	Evil	Dragon	I also damage characters behind the character I attack.	I also damage characters behind the character I attack.
+Echowood	6	1	1	Neutral	Treant	When another one of your characters gains Attack or Health during a brawl, so do I.	When another one of your characters gains Attack or Health during a brawl, I gain twice as much.
+Good Boy	6	2	2	Good	Animal	Last Breath: Give your other Good characters my Attack and Health this brawl.	Last Breath: Give your other Good characters double my Attack and Health this brawl.
+Great Pumpkin King	6	10	10	Evil	Monster	Last Breath: For each of your dead Evil characters, summon a random lower level Evil character.	Last Breath: For each of your dead Evil characters, summon a random Upgraded lower level Evil character.
+Grumblegore	6	10	5	Evil	Monster	Ranged Support: +10 Attack	Ranged Support: +20 Attack
+Hercules	6	20	20	Good	Royal	Quest: I deal 100 damage.	Quest: I deal 100 damage.
+Jormungand	6	20	20	Neutral	Monster	When another one of your characters triggers a Slay ability, +20/+20 this brawl. Slay: +20/+20 this brawl.	When another one of your characters triggers a Slay ability, +40/+40 this brawl. Slay: +40/+40 this brawl.
+Lordy	6	7	7	Neutral	Dwarf	At the start of each brawl, for each Dwarf you have, give them all +2/+2 this brawl.	At the start of each brawl, for each Dwarf you have, give them all +4/+4 this brawl.
+Scion of the Storm	6	2	2	Neutral	Mage	+2/+2 for each spell you have cast this game.	+4/+4 for each spell you have cast this game.
+The Green Knight	6	10	30	Good	Treant	Support: +10 Health	Support: +20 Health
+Awoken Princess	Created	8	8	Good	Royal		
+Big Pig	Created	5	5	Evil	Animal		
+Captain Croc	Created	10	10	Evil	Animal	Last Breath: Summon the character I swallowed.	Last Breath: Summon all the characters I've swallowed.
+Cat	Created	1	1	Evil	Animal		
+Frog Prince	Created	5	5	Good	Animal Royal		
+Mama Bear	Created	6	6	Good	Animal		
+Papa Bear	Created	4	4	Good	Animal	Last Breath: Summon a 6/6 Mama Bear.	Last Breath: Summon a 12/12 Mama Bear.
+Pig	Created	10	10	Neutral	Animal		
+Sheep	Created	2	2	Good	Animal		
+Statue	Created	0	6	Neutral			
+Tweedle Dum	Created	0	0	Neutral	Dwarf	
