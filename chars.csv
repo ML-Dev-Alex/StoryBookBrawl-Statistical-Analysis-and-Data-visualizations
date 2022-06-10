@@ -1,3 +1,4 @@
+Bossy 	2	2	2	Neutral	Dwarf	Your other dwarves have +1/+1.	Your other Dwarves have +2+2.
 B-a-a-d Billy Gruff	2	2	3	Evil	Animal		
 Baby Dragon	2	3	2	Neutral	Dragon	Flying	Flying
 Baby Root	2	0	3	Good	Treant	Support: +3 Health	Support: +6 Health
@@ -5,7 +6,6 @@ Black Cat	2	1	1	Evil	Animal	Last Breath: Summon a 1/1 Cat.	Last Breath: Summon a
 Blind Mouse	2	2	2	Neutral	Animal	Find 3 Blind Mice to get a level 4 treasure instead of level 2.	
 Cinder-Ella	2	2	2	Neutral	Royal Mage	Quest: Cast 4 spells.	Quest: Cast 4 spells.
 Crafty	2	2	2	Neutral	Dwarf	+2/+2 for each Treasure you have.	+4/+4 for each Treasure you have.
-Fanny	2	2	2	Neutral	Dwarf	Dwarf Support: +2/+2	Dwarf Support: +4/+4
 Golden Chicken	2	2	2	Neutral	Animal	I sell for 2 Gold.	I sell for 4 Gold.
 Happy Little Tree	2	1	1	Good	Treant	I gain +2 Health permanently each round.	I gain +4 Health permanently each round.
 Humpty Dumpty	2	7	7	Good	Egg	When I die, I can't be put back together again.	When I die, I can't be put back together again.
@@ -38,6 +38,7 @@ Vain-Pire	3	4	4	Evil	Monster	Slay: +1/+1 permanently.	Slay: +2/+2 permanently.
 Water Wraith	3	3	3	Evil	Monster	When a character next to me dies, I get +1/+1 permanently.	When a character next to me dies, I get +2/+2 permanently.
 Wicked Witch of the West	3	3	2	Evil	Mage	Evil Support: +3/+2	Evil Support: +6/+4
 Wretched Mummy	3	2	1	Evil	Monster	Last Breath: Deal damage equal to my Attack to a random enemy.	Last Breath: Deal damage equal to double my Attack to a random enemy.
+Amy	4	5	5	Neutral	Dwarf	Ranged
 Bearded Vulture	4	3	3	Evil	Animal	When one of your Animals dies, I gain +3/+3 this brawl.	When one of your Animals dies, I gain +6/+6 this brawl.
 Copycat	4	2	8	Neutral	Animal Mage	After I attack, trigger the Last Breath abilities of the characters behind me.	After I attack, trigger the Last Breath abilities of the characters behind me twice.
 Court Wizard	4	4	2	Good	Mage	Ranged When one of your Royals is attacked and killed, I make a bonus attack.	Ranged When one of your Royals is attacked and killed, I make a bonus attack.
@@ -68,7 +69,6 @@ Baby Bear	5	2	2	Good	Animal	Last Breath: Summon a 4/4 Papa Bear (that summons a 
 Cupid	5	1	10	Evil	Fairy	Flying, Ranged When I attack a character, it attacks a character on its own side.	Flying, Ranged When I attack a character, it attacks a character on its own side.
 Lancelot	5	9	9	Good	Royal	Slay: +2/+2 permanently. Quest: I have at least 25 Attack or Health during a brawl.	Slay: +4/+4 permanently. Quest: I have at least 25 Attack or Health during a brawl.
 Nian, Sea Terror	5	10	10	Evil	Monster	I only need two copies to Upgrade.	
-Oni Tyrant	5	7	7	Evil	Monster	When one of your Monsters attacks, give it +7/+7 this brawl.	When one of your Monsters attacks, give it +14/+14 this brawl.
 Robin Wood	5	7	10	Good	Treant	Ranged At the start of each brawl, give the strongest enemy -7 Attack, and your weakest character +7 Attack.	Ranged At the start of each brawl, give the strongest enemy -14 Attack, and your weakest character +14 Attack.
 Rotten Appletree	5	0	18	Evil	Treant	When I'm attacked, first reduce the attacker's Health to 1.	When I'm attacked, first reduce the attacker's Health to 1.
 Shoulder Faeries	5	1	1	Neutral	Fairy	I have the Attack of your strongest Evil character, and the Health of your healthiest Good character.	I have twice the Attack of your strongest Evil character, and twice the Health of your healthiest Good character.
@@ -76,6 +76,7 @@ Southern Siren	5	10	10	Evil	Monster	Slay: Summon an exact copy of the slain char
 Three Big Pigs	5	9	9	Evil	Animal	Last Breath: Summon three 3/3 Pigs.	Last Breath: Summon three 6/6 Pigs.
 Tweedle Dee	5	10	3	Neutral	Dwarf	Last Breath: Summon Tweedle Dum with my Attack and Health swapped.	Last Breath: Summon Tweedle Dum with double my Attack and Health swapped.
 Wombats in Disguise	5	4	4	Neutral	Animal	Last Breath: Summon a random character and give it my Attack and Health.	Last Breath: Summon a random Upgraded character and give it double my Attack and Health.
+Oni Tyrant	6	13	13	Evil	Monster	When one of your Monsters attacks, give it +10/+10 this brawl.	When one of your Monsters attacks, give it +20/+20 this brawl.
 Ashwood Elm	6	0	15	Evil	Treant	At the start of each brawl, give your Treants +Attack equal to my Health this brawl.	At the start of each brawl, give your Treants +Attack equal to double my Health this brawl.
 Bearstein	6	7	10	Good	Animal Mage	Your other Animals have +2/+2. When you summon an Animal during a brawl, double its Attack and Health.	Your other Animals have +4/+4. When you summon an Animal during a brawl, triple its Attack and Health.
 Burning Tree	6	4	20	Evil	Treant	Bonuses to my Attack also add to my Health.	Bonuses to my Attack also add double to my Health.
